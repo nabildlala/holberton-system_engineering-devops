@@ -1,1 +1,3 @@
-dir=$(pwd) 
+#!/bin/bash
+pwd
+
