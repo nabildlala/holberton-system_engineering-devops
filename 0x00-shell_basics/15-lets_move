@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -d /tmp/u/*[A-Z]
+mv /tmp/u/*[[:upper:]]*
+ls -d 
