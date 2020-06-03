@@ -1,2 +1,2 @@
 #!/pin/bash
-ls -la . ..
+ls -la . ../boot
