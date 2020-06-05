@@ -1,3 +1,0 @@
-chm#!/bin/bash
-chawn -h betty holberton _hello
-chgrp --dereference _hello symbolic_link

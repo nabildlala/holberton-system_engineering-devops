@@ -1,2 +1,3 @@
 #!/bin/bash
-mv *[[:upper:]]* ls -d /tmp/u
+<<<<<<< HEAD
+mv -i [[:upper:]]* /tmp/u
