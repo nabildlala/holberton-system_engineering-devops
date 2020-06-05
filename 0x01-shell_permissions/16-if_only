@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello betty ifonly -u guillaume
+sudo chown --from=guillaume betty hello
