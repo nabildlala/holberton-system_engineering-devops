@@ -1,9 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
 mv -i [[:upper:]]* /tmp/u
-||||||| merged common ancestors
-mv *[[:upper:]]* ls -d /tmp/u
-=======
-mv -i [[:upper:]]* /tmp/u
->>>>>>> 5ad2461983f8f835c3d850df5b4e77d1fe43b8c5
