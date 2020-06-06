@@ -1,0 +1,17 @@
+total 56
+drwxrwxr-x 2 nabil nabil 4096 juin   6 12:39 .
+drwxrwxr-x 6 nabil nabil 4096 juin   6 03:35 ..
+-rwxrw-r-- 1 nabil nabil   30 juin   6 03:47 0-hello_world
+-rwxrw-r-- 1 nabil nabil   34 juin   6 04:05 1-confused_smiley
+-rwxrw-r-- 1 nabil nabil   28 juin   6 04:11 2-hellofile
+-rwxrw-r-- 1 nabil nabil   43 juin   6 04:16 3-twofiles
+-rwxrw-r-- 1 nabil nabil   29 juin   6 04:19 4-lastlines
+-rwxrw-r-- 1 nabil nabil   29 juin   6 04:22 5-firstlines
+-rwxrw-r-- 1 nabil nabil   28 juin   6 05:06 6-third_line
+-rwxrw-r-- 1 nabil nabil   65 juin   6 06:02 7-file
+-rwxrw-r-- 1 nabil nabil   64 juin   6 06:00 7-file~
+-rwxrw-r-- 1 nabil nabil   37 juin   6 12:39 8-cwd_state
+-rwxrw-r-- 1 nabil nabil   40 juin   6 12:34 8-cwd_state~
+-rw-rw-r-- 1 nabil nabil    0 juin   6 06:03 \*\'Holberton School\'\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 nabil nabil  744 juin   6 04:56 iacta
+-rw-rw-r-- 1 nabil nabil    0 juin   6 12:39 ls_cwd_content
